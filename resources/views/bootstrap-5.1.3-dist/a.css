@@ -1,0 +1,20 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: rgb(150, 157, 160);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.list a {
+    text-decoration: none;
+}
+
+.tst {
+    width: 100px;
+    height: 200px;
+    background-color: aqua;
+}
